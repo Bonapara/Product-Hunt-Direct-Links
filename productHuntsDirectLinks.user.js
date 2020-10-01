@@ -3,9 +3,9 @@
 // @namespace    http://www.weekendr.eu
 // @version      0.1
 // @description  try to take over the world!
-// @author       Bonapara
+// @author       Weekendr
 // @match        https://www.producthunt.com/
-// @grant        none
+// @updateURL    https://raw.githubusercontent.com/Bonapara/Product-Hunt-Direct-Links/master/productHuntsDirectLinks.user.js
 // ==/UserScript==
 
 
