@@ -3,7 +3,7 @@
 // @namespace    http://www.weekendr.eu
 // @version      0.1
 // @description  try to take over the world!
-// @author       Weekendr
+// @author       Bonapara
 // @match        https://www.producthunt.com/
 // @grant        none
 // ==/UserScript==
